@@ -1,0 +1,113 @@
+---
+object: card
+id: ec609036-dfbf-47de-9a3a-762aea4196d4
+oracle_id: 1b721ad3-d0f6-4eec-9bf0-f57ea9dfa392
+multiverse_ids:
+- 175026
+mtgo_id: 31715
+mtgo_foil_id: 31716
+tcgplayer_id: 28560
+cardmarket_id: 20652
+name: Lapse of Certainty
+lang: en
+released_at: '2009-02-06'
+uri: https://api.scryfall.com/cards/ec609036-dfbf-47de-9a3a-762aea4196d4
+scryfall_uri: https://scryfall.com/card/con/9/lapse-of-certainty?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.jpg?1562804498
+  normal: https://cards.scryfall.io/normal/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.jpg?1562804498
+  large: https://cards.scryfall.io/large/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.jpg?1562804498
+  png: https://cards.scryfall.io/png/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.png?1562804498
+  art_crop: https://cards.scryfall.io/art_crop/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.jpg?1562804498
+  border_crop: https://cards.scryfall.io/border_crop/front/e/c/ec609036-dfbf-47de-9a3a-762aea4196d4.jpg?1562804498
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Counter target spell. If that spell is countered this way, put it on
+  top of its owner's library instead of into that player's graveyard.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 76b2db58-904c-4e49-8580-9f62f7b3cca4
+set: con
+set_name: Conflux
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/76b2db58-904c-4e49-8580-9f62f7b3cca4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acon&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/con?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ec609036-dfbf-47de-9a3a-762aea4196d4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b721ad3-d0f6-4eec-9bf0-f57ea9dfa392&unique=prints
+collector_number: '9'
+digital: false
+rarity: common
+flavor_text: Without a connection of mind and body, magic is just an idea stuck in
+  the head, a word on the tip of a tongue.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony Francisco
+artist_ids:
+- 6ac24c4b-70e9-4286-8f4b-b40c92ab5847
+illustration_id: a587ba8b-d3da-48de-920a-5e64ae5ec550
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3697
+penny_rank: 7852
+prices:
+  usd: '0.42'
+  usd_foil: '3.52'
+  usd_etched: 
+  eur: '0.26'
+  eur_foil: '1.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175026
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lapse+of+Certainty&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lapse+of+Certainty&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lapse+of+Certainty
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/28560?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lapse+of+Certainty&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31715?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,116 @@
+---
+object: card
+id: 65536d12-e75c-42b5-b592-a3ad4f550a71
+oracle_id: bd6ce147-c991-40ac-b276-65b630fad8b6
+multiverse_ids:
+- 180274
+mtgo_id: 31913
+mtgo_foil_id: 31914
+tcgplayer_id: 28629
+cardmarket_id: 20717
+name: Volcanic Fallout
+lang: en
+released_at: '2009-02-06'
+uri: https://api.scryfall.com/cards/65536d12-e75c-42b5-b592-a3ad4f550a71
+scryfall_uri: https://scryfall.com/card/con/74/volcanic-fallout?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.jpg?1592485188
+  normal: https://cards.scryfall.io/normal/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.jpg?1592485188
+  large: https://cards.scryfall.io/large/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.jpg?1592485188
+  png: https://cards.scryfall.io/png/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.png?1592485188
+  art_crop: https://cards.scryfall.io/art_crop/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.jpg?1592485188
+  border_crop: https://cards.scryfall.io/border_crop/front/6/5/65536d12-e75c-42b5-b592-a3ad4f550a71.jpg?1592485188
+mana_cost: "{1}{R}{R}"
+cmc: 3.0
+type_line: Instant
+oracle_text: |-
+  This spell can't be countered.
+  Volcanic Fallout deals 2 damage to each creature and each player.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 76b2db58-904c-4e49-8580-9f62f7b3cca4
+set: con
+set_name: Conflux
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/76b2db58-904c-4e49-8580-9f62f7b3cca4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acon&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/con?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/65536d12-e75c-42b5-b592-a3ad4f550a71/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd6ce147-c991-40ac-b276-65b630fad8b6&unique=prints
+collector_number: '74'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "How can we outrun the sky?"
+  —Hadran, sunseeder of Naya
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros & Gabor Szikszai
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+- 44c3877f-8771-43dc-9e40-f4c765f59d2e
+illustration_id: adca87ed-ee51-460b-9ebc-346597307238
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5021
+penny_rank: 4098
+prices:
+  usd: '0.24'
+  usd_foil: '0.82'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.98'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180274
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Volcanic+Fallout&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Volcanic+Fallout&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Volcanic+Fallout
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/28629?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Volcanic+Fallout&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31913?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

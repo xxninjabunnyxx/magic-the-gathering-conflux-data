@@ -1,0 +1,115 @@
+---
+object: card
+id: 80c706ef-5a31-419d-83a3-d60522c14451
+oracle_id: 3c889b2e-380a-4bc4-8d56-5fb12bc7c78b
+multiverse_ids:
+- 186616
+mtgo_id: 31907
+mtgo_foil_id: 31908
+tcgplayer_id: 28580
+cardmarket_id: 20692
+name: Nyxathid
+lang: en
+released_at: '2009-02-06'
+uri: https://api.scryfall.com/cards/80c706ef-5a31-419d-83a3-d60522c14451
+scryfall_uri: https://scryfall.com/card/con/49/nyxathid?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/0/80c706ef-5a31-419d-83a3-d60522c14451.jpg?1562802093
+  normal: https://cards.scryfall.io/normal/front/8/0/80c706ef-5a31-419d-83a3-d60522c14451.jpg?1562802093
+  large: https://cards.scryfall.io/large/front/8/0/80c706ef-5a31-419d-83a3-d60522c14451.jpg?1562802093
+  png: https://cards.scryfall.io/png/front/8/0/80c706ef-5a31-419d-83a3-d60522c14451.png?1562802093
+  art_crop: https://cards.scryfall.io/art_crop/front/8/0/80c706ef-5a31-419d-83a3-d60522c14451.jpg?1562802093
+  border_crop: https://cards.scryfall.io/border_crop/front/8/0/80c706ef-5a31-419d-83a3-d60522c14451.jpg?1562802093
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Elemental
+oracle_text: |-
+  As Nyxathid enters the battlefield, choose an opponent.
+  Nyxathid gets -1/-1 for each card in the chosen player's hand.
+power: '7'
+toughness: '7'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 76b2db58-904c-4e49-8580-9f62f7b3cca4
+set: con
+set_name: Conflux
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/76b2db58-904c-4e49-8580-9f62f7b3cca4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acon&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/con?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/80c706ef-5a31-419d-83a3-d60522c14451/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c889b2e-380a-4bc4-8d56-5fb12bc7c78b&unique=prints
+collector_number: '49'
+digital: false
+rarity: rare
+flavor_text: Born of volcanic forces, it thrives on the absolute panic it inspires.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: 37e178e9-a463-4afc-be18-3ddf98d6ab66
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14406
+penny_rank: 1675
+prices:
+  usd: '0.28'
+  usd_foil: '0.37'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '1.70'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186616
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nyxathid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nyxathid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nyxathid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/28580?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nyxathid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31907?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

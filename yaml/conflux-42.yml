@@ -1,0 +1,114 @@
+---
+object: card
+id: 03eb2163-cce2-4d07-b7d7-9c70a41fa373
+oracle_id: 30e397e9-a705-4484-8387-04fb84010b2d
+multiverse_ids:
+- 179239
+mtgo_id: 31735
+mtgo_foil_id: 31736
+tcgplayer_id: 28523
+cardmarket_id: 20685
+name: Drag Down
+lang: en
+released_at: '2009-02-06'
+uri: https://api.scryfall.com/cards/03eb2163-cce2-4d07-b7d7-9c70a41fa373
+scryfall_uri: https://scryfall.com/card/con/42/drag-down?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/3/03eb2163-cce2-4d07-b7d7-9c70a41fa373.jpg?1562799124
+  normal: https://cards.scryfall.io/normal/front/0/3/03eb2163-cce2-4d07-b7d7-9c70a41fa373.jpg?1562799124
+  large: https://cards.scryfall.io/large/front/0/3/03eb2163-cce2-4d07-b7d7-9c70a41fa373.jpg?1562799124
+  png: https://cards.scryfall.io/png/front/0/3/03eb2163-cce2-4d07-b7d7-9c70a41fa373.png?1562799124
+  art_crop: https://cards.scryfall.io/art_crop/front/0/3/03eb2163-cce2-4d07-b7d7-9c70a41fa373.jpg?1562799124
+  border_crop: https://cards.scryfall.io/border_crop/front/0/3/03eb2163-cce2-4d07-b7d7-9c70a41fa373.jpg?1562799124
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Domain — Target creature gets -1/-1 until end of turn for each basic
+  land type among lands you control.
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Domain
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 76b2db58-904c-4e49-8580-9f62f7b3cca4
+set: con
+set_name: Conflux
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/76b2db58-904c-4e49-8580-9f62f7b3cca4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acon&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/con?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/03eb2163-cce2-4d07-b7d7-9c70a41fa373/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30e397e9-a705-4484-8387-04fb84010b2d&unique=prints
+collector_number: '42'
+digital: false
+rarity: common
+flavor_text: The barbarians of Jund believe the bottomless tar pits extend forever
+  into other, darker worlds.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Trevor Claxton
+artist_ids:
+- 35d39e75-5d6c-4318-9136-38cdfff34a05
+illustration_id: 82512cf7-946d-43e0-b157-0a057fc4d086
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22531
+penny_rank: 11496
+prices:
+  usd: '0.05'
+  usd_foil: '0.26'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.04'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179239
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drag+Down&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drag+Down&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drag+Down
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/28523?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drag+Down&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31735?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
